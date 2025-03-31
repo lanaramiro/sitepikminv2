@@ -1,0 +1,32 @@
+/* body */
+body {
+    background-color: #fff8dc;
+}
+
+.title {
+    color: #8B0000;
+    padding: 10px 700px;
+}
+
+p {
+    color: #5F9EA0;
+}
+
+.title_pikmin{
+    color: #8B0000;
+    padding: 10px 750px;
+    border: dashed; 
+    border-radius: 7px;
+}
+
+.red_title{
+    color: #fff8dc;
+    background-image: url(../sitepikminv2/assets/glitter_vermelho.jpg);
+    border-radius: 8px;
+    padding: 10px;
+    width: 180px;
+}
+
+ul {
+    color: #5F9EA0;
+}
