@@ -5,7 +5,8 @@ body {
 
 .title {
     color: #8B0000;
-    padding: 10px 700px;
+    padding: 10px; 
+    text-align: center;
 }
 
 p {
@@ -14,7 +15,8 @@ p {
 
 .title_pikmin{
     color: #8B0000;
-    padding: 10px 750px;
+    padding: 10px;
+    text-align: center;
     border: dashed; 
     border-radius: 7px;
 }
@@ -25,6 +27,27 @@ p {
     border-radius: 8px;
     padding: 10px;
     width: 180px;
+}
+
+.yellow_title{
+    color:#5F9EA0;
+    background-image: url(../sitepikminv2/assets/glitter_amarelo.avif);
+    border-radius: 8px;
+    padding: 10px;
+    width: 170px;
+}
+
+.img_pikmin_azul{
+    max-width:250px;
+    max-height:2500px;
+}
+
+.blue_title{
+    color: #fff8dc;
+    background-image: url(../sitepikminv2/assets/glitter_azul.jpg);
+    border-radius: 8px;
+    padding: 10px;
+    width: 135px;
 }
 
 ul {
